@@ -1,14 +1,14 @@
 /*colors*/
 .white			{color: #fff!important;}
 .black			{color: #000;}
-.blue		{color: rgba(117,200,170,1.00);}
+.blue		{color: black;}
 .grey   	{color: rgba(112,112,112,1.00);}
 
 
 
 .bg-white		{background-color: #fff;}
 .bg-black		{background-color: #000;}
-.bg-blue		{background-color: rgba(117,200,170,1.00);}
+.bg-blue		{background-color: black;}
 .bg-grey		{background-color: rgba(112,112,112,1.00);}
 
 
@@ -42,7 +42,7 @@ line-height: 2;
     font-family: "noteworthy";
     color: white;
     font-size: 30px;
-    color:rgba(117,200,170,1.00);
+    color:black;
     text-align: center;
     letter-spacing: .5px;
 }
